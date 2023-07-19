@@ -13,3 +13,9 @@ The state changes on clicking the button where by calling this set function from
 
 The square state variable declared under the parent component initially creates an array of 9 elements and sets each value to 'null'.  The useState() call around it declares a squares state variable that’s initially set to that array. Each entry in the array corresponds to the value of a square. 
 Now, the parent component needs to pass the state or prop down to each of the Square that it renders. 
+
+* The state of the board(parent) component is changed to current state by rendering 
+handleClick(),
+* handleClick alters the state of the board component by calling the setSquares component.
+* All the statemanagement is handled by the board component (parent) 
+
