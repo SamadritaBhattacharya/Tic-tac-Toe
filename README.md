@@ -5,7 +5,7 @@ The main motive is to learn react while doing projects.
 
 It uses the concept of state, component and props .
 
-Here, initially all the squares in the box are taken null where each box has its own state completely indepenndent of each other. 
+Here, initially all the squares in the box are taken null where each box has its own state completely independent of each other. 
 
 
 State of a box changes only when the square/box is clicked showing 'X' or 'O' depending on the turn. 
