@@ -19,3 +19,9 @@ handleClick(),
 * handleClick alters the state of the board component by calling the setSquares component.
 * All the statemanagement is handled by the board component (parent) 
 
+
+*Time Travel*:
+Can update as with respect to time 
+* can go to the previous move
+* shows the current status
+* 
