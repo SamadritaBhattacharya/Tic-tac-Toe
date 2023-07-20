@@ -24,4 +24,3 @@ handleClick(),
 Can update as with respect to time 
 * can go to the previous move
 * shows the current status
-* 
