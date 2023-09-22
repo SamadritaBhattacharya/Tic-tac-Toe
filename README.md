@@ -1,7 +1,7 @@
 **TIC-TAC-TOE**
 
 This will create an interactive tic-tac-toe game .
-The main motive is to learn react while doing projects. 
+The main motive is to learn React while doing projects. 
 
 It uses the concept of state, component and props .
 
